@@ -179,3 +179,9 @@ Conservar en `Evidencias/` las capturas originales de:
 - Ejecución posterior con la prueba de aislamiento aprobada y los dos defectos pendientes.
 
 Los nombres de archivo pueden seguir una secuencia como `01_ejecucion_inicial.png`, `02_defecto_aislamiento_postman.png`, `03_correccion_aislamiento.png` y `04_resultado_post_correccion.png`. Verificar que las capturas estén efectivamente incluidas antes de comprimir la entrega.
+
+Video de sustentación
+
+Se presenta el recorrido de la solución desarrollada, incluyendo la estrategia de pruebas, escenarios automatizados, evidencias, hallazgos, análisis de riesgos y recomendación de liberación.
+
+Enlace al video: https://drive.google.com/file/d/1Yk0eZ6gfjaOVNMfmC4MZSIV13UnyAS-G/view?usp=sharing
